@@ -10,7 +10,7 @@ date = 2022-11-25
 author = "Fabian Kuo"
 +++
 
-Alpha Camp (AC) had divided it's second semester into 3 sections. Today, we'll be reviewing the content of semester 2-2.
+Alpha Camp (AC) had divided it's second semester into 3 sections. Today, I'll be going over the content of semester 2-2.
 
 Semester 2-2 focuses on doing by learning, putting into practice the concepts covered in semester 2-1.
 
@@ -20,23 +20,23 @@ Semester 2-2 focuses on doing by learning, putting into practice the concepts co
 
 A few APIs are provided, allowing us to practice reading API documents and using Axios to make ajax requests in Codepen. The main goal is to learn how to use an API in our project.
 
-This week also introduces our first full fledge IDE, visual studio code. Installation directions are provided and suggestions on what extensions to install are also provided.
+This week also introduces our first full fledge IDE, visual studio code. Installation directions and suggestions on what extensions to install are both provided.
 
-This week's content ends with a DOM manipulation practice session. Making improvements on our previous to-do list project from semester 2-1 and creating a simple shopping cart web page.
+Week 1 wraps up with a DOM manipulation practice session, improving up our previous to-do list project from semester 2-1 and creating a simple shopping cart web page.
 
 ## Week 2
 
-Week 2 focuses on the practice of writing functions and making API calls. The goal is to build a movie gallery web page with search, add to favorite, pagination, and the usage of the bootstrap modal. A complete walk-through is provided, guiding the learner to build this web page from the ground up. A recurring theme is divide and conquer, breaking down the problem into bite-size chunks. Throughout the coding process, we are reminded to use meaningful variable and function names and to keep functions as simple as possible, limiting their content to complete one specific task.
+Week 2 focuses on writing functions and making API calls. The goal is to build a movie gallery web page with search, add to favorite, pagination, and the usage of the bootstrap modal. A complete walk-through is provided, guiding the learner to build this web page from the ground up. A recurring theme is divide and conquer, breaking down the problem into bite-size chunks. Throughout the coding process, we are reminded to use meaningful variables and function names and to keep functions as simple as possible, limiting their content to complete one specific task.
 
 ## Week 3
 
-This week is dedicated to writing our own web pages with the search, pagination, and add to favorite functions. We are encouraged to be creative with our projects, but at the same time to limit the scope of the project. This way, we'll be able to finish the project in time.
+This week is dedicated to writing our own web pages with the search, pagination, and add to favorite functions. We are encouraged to be creative with our web page, but at the same time to limit the scope of the project. This way, we'll be able to finish the project in time.
 
-I built a website displaying a made up friend list. The user can filter the list by first and last name using the search bar. A tri-state toggle is also included for filtering. I extended the search functionality by adding multiple keyword support, meaning the user can filter their friend list with multiple keywords and remove these keywords as seen fit. I also extended the pagination function into a dynamic pagination function. This allows the user to navigate to either the previous or next page, the first or last page, or any page displayed in the pagination list. The pages display changes according to the number of pages and the current page.
+I built a website displaying a made up friend list. The user can filter the list by first and last name using the search bar. A tri-state toggle is also included for filtering. I extended the search functionality by adding multiple keyword support, meaning the user can filter their friend list with multiple keywords and remove these keywords as seen fit. I also extended the pagination function into a dynamic pagination function. This allows the user to navigate to either the previous or next page, the first or last page, or any page displayed in the pagination list. The pages displayed changes according to the number of pages and the current page.
 
 ## Week 4
 
-This week is crammed full of content, including a card memorization game, an introduction to version control with git, git pages, and preparing for semester 2-3.
+A lot of content is crammed into this week, including a card memorization game, an introduction to version control with git, git pages, and preparing for semester 2-3.
 
 The card memorization game is designed to help the learner implement an MVC structure in javascript and to practice encapsulation.
 
