@@ -14,9 +14,7 @@ Alpha Camp (AC) had divided it's second semester into 3 sections. Today, we'll b
 
 Semester 2-2 focuses on doing by learning, putting into practice the concepts covered in semester 2-1.
 
-<img src="https://fabiankuo.github.io/asset-repo/Sem2-2_assignments.jpg" style="display: block; margin-left: auto; margin-right: auto;" alt="semester 2 assignments">
-<img/>
-<p style="text-align:center"> <i> Semester 2-2 Assignments </i></p>
+![Semester 2-2 Assignments](https://fabiankuo.github.io/asset-repo/Sem2-2_assignments.jpg)
 
 ## Week 1
 
